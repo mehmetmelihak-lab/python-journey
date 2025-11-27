@@ -34,4 +34,4 @@ if your_gender=='m':
 elif gender=='f':
             print('Hello there lady.')
 else:
-            print('Hello there friend')
+            print('Hello there friendoo')
