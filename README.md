@@ -82,7 +82,7 @@ My long-term goal is to contribute to large-scale open-source ecosystems such as
 - Always write small, clean commits → helps GitLab/GitHub reviewers  
 - Keep security and backend mindset in mind even for small projects  
 - Log every bug, learning, PR, or security finding
-
+-Open source 100 PR's over 450 days
 ---
 
 ## 💬 Contact / Mentorship
